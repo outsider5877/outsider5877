@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning how to bug hunt
 - 🌱 I’m currently learning the art of the pentest
 - 💞️ I’m looking to collaborate on anything. Just working on leveling my skill set and broadening my skill base
--     and anything I can do to help a project move fwd. Suggestions are more than welcome
+  - `and anything I can do to help a project move fwd. Suggestions are more than welcome`
 - 📫 How to reach me 
 
 <!---
