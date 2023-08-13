@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @outsider5877
+- 👋 Hi, I’m @osurac.a
 - 👀 I’m interested in learning how to bug hunt
 - 🌱 I’m currently learning the art of the pentest
 - 💞️ I’m looking to collaborate on anything. Just working on leveling my skill set and broadening my skill base
